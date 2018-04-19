@@ -1,0 +1,17 @@
+node_modules/
+build/
+config/
+public/images/photos
+public/uploads
+
+# misc
+**/.DS_Store
+*.DS_Store
+.DS_Store
+.env.local
+variables.env
+notes.txt
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
